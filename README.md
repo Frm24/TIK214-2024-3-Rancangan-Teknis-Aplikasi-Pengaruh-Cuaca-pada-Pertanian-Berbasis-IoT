@@ -1,0 +1,1 @@
+# TIK214-2024-3-Rancangan-Teknis-Aplikasi-Pengaruh-Cuaca-pada-Pertanian-Berbasis-IoT
